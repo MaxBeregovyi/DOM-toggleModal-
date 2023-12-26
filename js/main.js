@@ -1,7 +1,7 @@
 document.querySelector(".btn").onclick = () => {
   toggleModal("Привіт 1");
   toggleModal(
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci fuga recusandae rerum temporibus velit voluptatum?"
+    "Qui tempore modi et ipsa porro et nihil sequi ut alias saepe. Et corrupti enim non eveniet fuga sit illo enim hic repellendus earum."
   );
   toggleModal("Привіт 2");
 };
